@@ -17,4 +17,6 @@ This project contains a gitignore that will stop most IDE specific files as well
 * Make sure the manifest is selected
 * Right-click your *.jar inside output layout. Select Add a Copy of -> Module Output
 
-[![Build Status](https://travis-ci.org/05kritika/java-hello-world-maven.svg?branch=master)](https://travis-ci.org/05kritika/java-hello-world-maven)
+#[![Build Status](https://travis-ci.org/05kritika/java-hello-world-maven.svg?branch=master)](https://travis-ci.org/05kritika/java-hello-world-maven)
+
+http://ec2-34-229-138-23.compute-1.amazonaws.com:8080/job/Webhook_demo/badge/icon
