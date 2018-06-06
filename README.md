@@ -19,4 +19,4 @@ This project contains a gitignore that will stop most IDE specific files as well
 
 #[![Build Status](https://travis-ci.org/05kritika/java-hello-world-maven.svg?branch=master)](https://travis-ci.org/05kritika/java-hello-world-maven)
 
-http://ec2-34-229-138-23.compute-1.amazonaws.com:8080/job/Webhook_demo/badge/icon
+#http://ec2-34-229-138-23.compute-1.amazonaws.com:8080/job/Webhook_demo/badge/icon
