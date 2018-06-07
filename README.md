@@ -19,4 +19,4 @@ This project contains a gitignore that will stop most IDE specific files as well
 
 
 
-[![Build Status](http://ec2-34-229-138-23.compute-1.amazonaws.com:8080/job/Webhook_demo/badge/icon)](http://ec2-34-229-138-23.compute-1.amazonaws.com:8080/job/Webhook_demo/)
+[![Build Status](http://ec2-184-72-65-179.compute-1.amazonaws.com:8080/job/Webhook_demo/badge/icon)](http://ec2-184-72-65-179.compute-1.amazonaws.com:8080/job/Webhook_demo/)
