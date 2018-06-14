@@ -19,4 +19,8 @@ This project contains a gitignore that will stop most IDE specific files as well
 
 
 
-[![Build Status](http://ec2-184-72-65-179.compute-1.amazonaws.com:8080/job/Webhook_demo/badge/icon)](http://ec2-184-72-65-179.compute-1.amazonaws.com:8080/job/Webhook_demo/)
+[![Build Status](http://ec2-52-90-19-21.compute-1.amazonaws.com:8080/job/Webhook_demo/badge/icon)](http://ec2-52-90-19-21.compute-1.amazonaws.com:8080/job/Webhook_demo/)
+
+
+![Jenkins](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/view/Precise/view/All%20Precise/job/precise-desktop-amd64_default.svg)
+
